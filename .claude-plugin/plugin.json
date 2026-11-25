@@ -1,0 +1,25 @@
+{
+  "name": "openrouter-skills",
+  "version": "0.1.0",
+  "description": "OpenRouter port of the Higgsfield AI skills: images, videos, websites, product photoshoots, marketplace cards, YouTube thumbnails and brand systems via OpenRouter media APIs.",
+  "author": {
+    "name": "suh-hyung-lee (fork of Higgsfield AI skills)"
+  },
+  "homepage": "https://openrouter.ai/docs",
+  "repository": "https://github.com/higgsfield-ai/skills",
+  "license": "MIT",
+  "keywords": [
+    "openrouter",
+    "image-generation",
+    "video-generation",
+    "ai-video",
+    "ai-image",
+    "img2vid",
+    "scroll-scrub",
+    "product-photoshoot",
+    "brandkit",
+    "faceless-video",
+    "tts",
+    "youtube-thumbnail"
+  ]
+}

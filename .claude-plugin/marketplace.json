@@ -1,0 +1,26 @@
+{
+  "name": "openrouter",
+  "owner": {
+    "name": "suh-hyung-lee",
+    "url": "https://openrouter.ai"
+  },
+  "plugins": [
+    {
+      "name": "openrouter-skills",
+      "source": "./",
+      "description": "OpenRouter port of the Higgsfield skills: image/video generation, websites, product photoshoots, marketplace cards, YouTube thumbnails and brand systems, generated through the OpenRouter media APIs.",
+      "version": "0.1.0",
+      "skills": [
+        "./openrouter-media",
+        "./openrouter-generate",
+        "./openrouter-product-photoshoot",
+        "./openrouter-marketplace-cards",
+        "./openrouter-youtube-thumbnail",
+        "./openrouter-brandkit",
+        "./openrouter-faceless-video",`n        "./openrouter-video-explainer",
+        "./openrouter-websites"
+      ]
+    }
+  ]
+}
+
